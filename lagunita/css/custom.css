@@ -4,3 +4,16 @@
   margin-right: auto;
   max-width: 100%;
 }
+
+.download-btn{
+    background-color: #9d2235;
+    color: white;
+    padding: 0.0rem 0.0rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius:1px;
+}
+
+.download-btn:hover {
+    background-color: RoyalBlue;
+  }
